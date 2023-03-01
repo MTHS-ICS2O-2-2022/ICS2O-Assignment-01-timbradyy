@@ -1,4 +1,32 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Tim Brady
+* Created on: February 28 2023 for Mr Coxall
 * This file contains the CSS for index.html
 */
+body {
+  background-color: #91aff1;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #4d7cff;
+  text-align: center;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #5675ff;
+  text-align: center;
+}
+
+p {
+  background-color: #ffffff;
+  color: #000;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
