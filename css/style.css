@@ -3,7 +3,7 @@
 * This file contains the CSS for index.html
 */
 body {
-  background-color: #91aff1;
+  background-color: #0957ff;
 }
 
 div {
@@ -15,7 +15,7 @@ div {
 p {
   background-color: #fffbfb;
   color: #000;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman';
   text-align: center;
 }
 
